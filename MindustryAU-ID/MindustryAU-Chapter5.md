@@ -20,7 +20,7 @@ Dia berjalan ke komunikasi, sangat lambat, memasukkan kode dan mulai mengirim pe
 
 “Kami membutuhkan bala bantuan. Kita perlu—“ Dia berhenti selama beberapa detik.
 
-"T5s" tambahnya.
+"T5" tambahnya.
 
 "Baiklah," kata Kaisar.
 
