@@ -11,6 +11,8 @@ Captain opened the comms and gave the orders: “Attack from air and ground! Tar
 A message came from the Commando: “Sir, they have lancers, I don’t know how much longer we can stand.”
 “Don’t worry Commando! We have backup, we are sending the brand new, Fortress, it’s a fully armored walking tank with packed in hails.”
 …
+
+
 ![image](https://user-images.githubusercontent.com/62565267/120976373-f37e2480-c77a-11eb-8cd1-17e47a37a98e.png)
 
 “We lost the signal, the sector got captured.” Said the Admiral, with a crack in his voice.
