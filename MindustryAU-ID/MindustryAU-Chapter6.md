@@ -4,7 +4,7 @@
 
 “Tuan, Sharded sedang berkembang. Sangat lucu bahwa mereka menggunakan busur dan duo melawan kami di Fungal Pass. ” Kata Laksamana.
 
-Komandan menjawab, “Kirim megas, polys, mace, daggers, crawler, fortress! Apa pun yang kita miliki! Kita harus menghentikan mereka!”
+Komandan menjawab, “Kirim mega, poly, mace, daggers, crawler, fortress! Apa pun yang kita miliki! Kita harus menghentikan mereka!”
 
 …
 

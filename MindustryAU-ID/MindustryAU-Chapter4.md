@@ -18,7 +18,7 @@ Kapten memasuki ruangan dan mulai berbicara, "Tuan, mekanik kami membangun unit 
 
 "Apa itu?" tanya profesor.
 
-“Ini satu-satunya, * Tongkat Kerajaan *, ini adalah stasiun pertempuran berjalan, 50 kali lebih kuat dari Benteng. Penuh dengan blaster raksasa dan 2 meriam mega, unit ini dapat menghancurkan apa pun di jalannya.”
+“Ini satu-satunya, *Scepter*, ini adalah stasiun pertempuran berjalan, 50 kali lebih kuat dari Fortress. Penuh dengan blaster raksasa dan 2 meriam mega, unit ini dapat menghancurkan apa pun di jalannya.”
 
 “Aku tidak ingin ada kegagalan kali ini! Kita harus memenangkan perang ini, sebelum terlambat.” Kata Komandan.
 
@@ -42,11 +42,11 @@ Profesor menghela nafas, dia tahu dia harus berbuat lebih baik.
 
 "Ya pak!" jawab Kapten.
 
-"Lepaskan * Tongkat Kerajaan *!" memerintahkan Komandan.
+"Lepaskan *Scepter*!" memerintahkan Komandan.
 
 "Kami menghancurkan lancer mereka, Tuan!" kata kapten.
 
-"Riak mereka menembak, tapi kita hampir mencapai inti mereka." Dia melanjutkan.
+"Ripple mereka menembak, tapi kita hampir mencapai inti mereka." Dia melanjutkan.
 
 Komandan mulai ragu.
 
