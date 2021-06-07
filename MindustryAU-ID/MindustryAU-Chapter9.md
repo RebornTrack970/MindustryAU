@@ -6,7 +6,7 @@ Alarm mulai berbunyi, semua orang panik.
 
 “Evakuasi ke Terminal Peluncuran Planet! Saya ulangi Evakuasi ke Planetary Launch Terminal!” dia mulai berteriak melalui komunikasi.
 
-"Tuan, Dampak 0078 turun!" lapor Kapten.
+"Tuan, Impact 0078 turun!" lapor Kapten.
 
 “Satu Pasukan, lindungi PLT! Pasukan B, coba pegang Sharded sebanyak mungkin di Desolate Rift!” teriak Laksamana.
 
