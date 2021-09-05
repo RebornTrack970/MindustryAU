@@ -22,7 +22,7 @@ Captain panicked even more.
 
 “We are losing the secto-“ comms cut.
 
-“The Emperor will not be please.” Said the Commander, with a low and deep voice.
+“The Emperor will not be pleased.” Said the Commander, with a low and deep voice.
 
 …
 
