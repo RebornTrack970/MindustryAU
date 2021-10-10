@@ -32,7 +32,7 @@ He got a message from the Admiral, “They have defeated all our forces.” He s
 
 “Come on, come on!” said the Upper Commander.
 
-“Shield down!” said the Pilot.
+“Shields down!” said the Pilot.
 
 “Continue!” ordered the Upper Commander.
 
