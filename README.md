@@ -1,5 +1,5 @@
 # MindustryAU
-A FanFic/Lore about Mindustry Campaign, from the perspective of Crux.
+A FanFic/Lore about Mindustry Campaign, from the perspective of Crux. (All characters are Droids)
 
 This FanFic/Lore is writen and edited by **RTOmega.**
 
