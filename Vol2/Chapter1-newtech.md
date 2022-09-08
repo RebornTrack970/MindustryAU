@@ -37,7 +37,7 @@ If we used Serpulo like thing cables, the cables would cruble within no time." e
 
 "We then use that silicon in our Tank Fabricators to produce advanced and basic Units." he continiued.
 
-"Because of the harsh atmosphere, we cant make flying Units, but our T1 spider and tank units are as advanced as Serpulo T3 units!"
+"Because of the harsh atmosphere, we cant make flying Units, but our T1 insectoid and tank units are as advanced as Serpulo T3 units!"
 
 *"What!? T1 Units as Strong as T3!?"* shouted the Admiral in his head. Seemingly unable to process the difference in tech.
 
