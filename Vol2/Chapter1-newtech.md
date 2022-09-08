@@ -1,3 +1,8 @@
+"talk"
+*"tought"*
+<"ai talk">
+Yukata: Malvis General
+
 # Chapter 2:  New Tech
 
 POV: 3rd Person
@@ -39,9 +44,9 @@ If we used Serpulo like thing cables, the cables would cruble within no time." e
 "And finaly, we have the Breach, the Berilium Turret. Unfortuntely, turrets smaller than 3x3 cant survive in the harsh enviroment so we need to build larger turrets.
 And closed ducts to transfer item." explained Yukata.
 
-While they were returning to their Core, a small object shined in the sky.It looked like an ateroid, but it was coming right for Onset!
+While they were returning to their Core, a small object shined in the sky. It looked like an ateroid, but it was coming right for Onset!
 
-<"Warning! Warning! Unidentified Object Crashlanding! Warning!>
+<"Warning! Warning! Unidentified Object Crashlanding! Warning!">
 
 A massive object crashed down on the planet, creating a shockwave and dust cloud that covered the entire area.
 
