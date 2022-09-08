@@ -96,7 +96,8 @@ The Emperor smiled.
 
 …
 
-**Mindustry AU by RTOmega**
+**Mindustry AU Vol1 by RTOmega**
+This is the end of the Serpulo Arc. Vol2 is about Erekir.
 
 *Please give feedback and tell if I made any mistakes*
 You can contribute by making a pull request.
